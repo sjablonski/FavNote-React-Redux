@@ -2,7 +2,7 @@
 
 Project based on the course: [React - W Praktyce](https://eduweb.pl/programowanie-i-www/reactjs/react-w-praktyce)
 
-Demo: https://favnote-react-sjablonski.netlify.app/
+Demo: https://favnote-react-redux-sjablonski.netlify.app/
 
 Technology Stack:
 
